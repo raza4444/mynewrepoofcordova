@@ -1,0 +1,16 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Old Hindi Songs 4",
+  "short_name": "Old Hindi Songs 4",
+  "version": "com.timesvideos.oldhindisongs",
+  "author": "Apache Cordova Team",
+  "icons": [
+    {
+      "src": "www/img/icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
