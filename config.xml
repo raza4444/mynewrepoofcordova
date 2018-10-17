@@ -21,7 +21,7 @@
 </platform >
 <engine name="android" spec="~7.1.1" />
 <engine name="ios" spec="~4.5.5" />
-<preference name="android-minSdkVersion" value="14" />
+<preference name="android-minSdkVersion" value="15" />
 <preference name="android-maxSdkVersion" value="28" />
 <preference name="android-targetSdkVersion" value="26" />
 <preference name="android-build-tool" value="gradle" />
@@ -30,6 +30,7 @@
 <preference name="admobBannerId" value="ca-app-pub-2607313420010336/7611688216" />
 <preference name="admobInterstitialId" value="ca-app-pub-2607313420010336/2846021663" />
 <plugin name="cordova-plugin-whitelist" spec="1" />
+<plugin name="onesignal-cordova-plugin" source="npm" spec="2.3.3" />
 <plugin name="cordova-plugin-statusbar" spec="https://github.com/apache/cordova-plugin-statusbar.git" />
 <plugin name="cordova-plugin-network-information" spec="^2.0.1" />
 <plugin name="cordova-plugin-customconfigparameters" spec="https://github.com/experiencecommerce/cordova-plugin-customconfigparameters.git" /> 
